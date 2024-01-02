@@ -1,4 +1,4 @@
-# README.md
+# Beam Break
 
 This is a simple IR beam break board intended for direct interfacing
 to a roboRIO DIO.
